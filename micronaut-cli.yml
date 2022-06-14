@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.autonomk
+testFramework: kotest
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, gradle, http-client, jackson-databind, jdbc-hikari, kotest, kotlin, kotlin-application, kotlin-build, logback, micronaut-build, netty-server, postgres, rabbitmq, readme, shade, testcontainers, toml, toml-build]
